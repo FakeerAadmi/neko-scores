@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "neko-scores",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "7d12dbf3-8b22-4f90-b6d6-719464ef0d2c",
+			"database_name": "neko_score_database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
